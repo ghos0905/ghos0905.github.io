@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://ee.yonsei.ac.kr/">Department of Electrical and Electronic Engineering</a>, Yonsei University.
+description: <a href='https://ee.yonsei.ac.kr/'>Department of Electrical and Electronic Engineering</a>, Yonsei University.
 
 profile:
   align: right
