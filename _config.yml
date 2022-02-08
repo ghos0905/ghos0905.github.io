@@ -70,7 +70,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: false # true(default)
 
 contact_note: >
-  E-mail: hosikchoi@yonsei.ac.kr
+#  E-mail: hosikchoi@yonsei.ac.kr
 #You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
