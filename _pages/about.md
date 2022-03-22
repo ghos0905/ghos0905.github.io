@@ -21,4 +21,4 @@ My name is Hosik Choi. I am a M.S. student in the Department of Electrical and E
 
 My research interests are Image Processing, Deep Learning, Robotics, and Algorithm Effectiveness. My ongoing project is focused on Effective Object Detection Algorithm using optical flow, machine learning, and deep learning methods.
 
-Prior to M.S. course, I received my B.S. degree in the Department of Human Environment and Design, the Cognitive Science, and the Applied Statistics at Yonsei University in 2021. When B.S. student, I was interested in the question 'How human brain worked?'. Now, I am following the way to reach the answer.
+Prior to M.S. course, I received my B.S. degree in the Department of Human Environment and Design, the Cognitive Science, and the Applied Statistics at Yonsei University in 2021. When B.S. student, I was interested in the question 'How human brain worked?'.
