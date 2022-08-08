@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test announcement with post type.
-date: 2025-11-07 16:11:00-0400
+title: Test.
+date: 2000-01-01 16:11:00-0400
 inline: false
 ---
 
