@@ -253,7 +253,6 @@ Your publications page is generated automatically from your BibTex bibliography.
 Simply edit `_bibliography/papers.bib`.
 You can also add new `*.bib` files and customize the look of your publications however you like by editing `_pages/publications.md`.
 
-<p align="center"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/publications-screenshot.png" width=800></p>
 
 <details><summary>(click to expand) <strong>Author annotation:</strong></summary>
 
@@ -298,7 +297,6 @@ The theme comes with two default collections: `news` and `projects`.
 Items from the `news` collection are automatically displayed on the home page.
 Items from the `projects` collection are displayed on a responsive grid on projects page.
 
-<p align="center"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/projects-screenshot.png" width=700></p>
 
 You can easily create your own collections, apps, short stories, courses, or whatever your creative work is.
 To do this, edit the collections in the `_config.yml` file, create a corresponding folder, and create a landing page for your collection, similar to `_pages/projects.md`.
@@ -312,29 +310,18 @@ To do this, edit the collections in the `_config.yml` file, create a correspondi
 
 The theme allows you to create blog posts in the [distill.pub](https://distill.pub/) style:
 
-<p align="center"><a href="https://alshedivat.github.io/al-folio/blog/2018/distill/" target="_blank"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/distill-screenshot.png" width=700></a></p>
-
 For more details on how to create distill-styled posts using `<d-*>` tags, please refer to [the example](https://alshedivat.github.io/al-folio/blog/2018/distill/).
 
 #### Full support for math & code
 
 **al-folio** supports fast math typesetting through [KaTeX](https://katex.org/) and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes):
 
-<p align="center">
-<a href="https://alshedivat.github.io/al-folio/blog/2015/math/" target="_blank"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/math-screenshot.png" width=400></a>
-<a href="https://alshedivat.github.io/al-folio/blog/2015/code/" target="_blank"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/code-screenshot.png" width=400></a>
-</p>
+
 
 #### Photos
 
 Photo formatting is made simple using [Bootstrap's grid system](https://getbootstrap.com/docs/4.4/layout/grid/).
 Easily create beautiful grids within your blog posts and project pages:
-
-<p align="center">
-  <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
-    <img src="assets/img/photos-screenshot.png" width="75%">
-  </a>
-</p>
 
 
 ### Other features
