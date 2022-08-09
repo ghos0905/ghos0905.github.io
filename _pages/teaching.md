@@ -6,14 +6,14 @@ description: Here is a list of courses that I am TAing/TA’ed.
 nav: true
 ---
 
-AI SMART TECHNOLOGY II `ENG2012.01-00`<br>
-Fall 2021: Teaching Assistant<br>
+<b>AI SMART TECHNOLOGY II</b> `ENG2012.01-00`<br>
+<i>Fall 2021: Teaching Assistant</i><br>
 <a href="http://ysweb.yonsei.ac.kr:8888/curri120601/curri_pop2.jsp?&hakno=ENG2012&bb=01&sbb=00&domain=H1&startyy=2021&hakgi=2&ohak=0400">Course Syllabus</a>
 
-ENGINEERING INFORMATION PROCESSING `ENG1108.04-01`<br>
-Fall 2021: Head Teaching Assistant<br>
+<b>ENGINEERING INFORMATION PROCESSING</b> `ENG1108.04-01`<br>
+<i>Fall 2021: Head Teaching Assistant</i><br>
 <a href="http://ysweb.yonsei.ac.kr:8888/curri120601/curri_pop2.jsp?&hakno=ENG1108&bb=04&sbb=01&domain=H1&startyy=2021&hakgi=2&ohak=0400">Course Syllabus</a>
 
-DIGITAL CONTROL ENGINEERING `EEE4320-01`<br>
-Spring 2021: Teaching Assistant<br>
+<b>DIGITAL CONTROL ENGINEERING</b> `EEE4320-01`<br>
+<i>Spring 2021: Teaching Assistant</i><br>
 <a href="http://ysweb.yonsei.ac.kr:8888/curri120601/curri_pop2.jsp?&hakno=EEE4320&bb=01&sbb=00&domain=H1&startyy=2021&hakgi=1&ohak=04202">Course Syllabus</a>
