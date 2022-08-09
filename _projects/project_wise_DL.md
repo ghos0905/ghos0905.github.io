@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Heavy equipment camera object detection
+title: Heavy Equipment Camera Object Detection
 description: _2021.12~_
-img: assets/img/12.jpg
+img: 
 importance: 1
 category: work
 ---
