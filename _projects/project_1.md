@@ -7,7 +7,7 @@ importance: 4
 category: work
 ---
 
-`Time of Flight(TOF) 카메라를 통해 물체와의 거리 정보를 활용하여 얼굴 제스처 인식 알고리즘 기술 개발`
+`Time of Flight(TOF) 카메라를 통해 물체와의 거리 정보를 활용하여 얼굴 제스처 인식 알고리즘 기술 개발 (2020.12 ~ 2021.3)`
 
 
 Role:
