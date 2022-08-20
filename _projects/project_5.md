@@ -3,7 +3,7 @@ layout: page
 title: 동물 생체 센서 메커니즘과 인지 능력에 대한 지능 통합 연구와 그 응용 Ⅱ
 description: 재단법인 한국연구재단 정부-중견연구자지원사업, 2021.9 ~ 2022.4
 img: 
-importance: 2
+importance: 1
 category: work
 ---
 
