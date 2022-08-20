@@ -25,7 +25,7 @@ cv_pdf: cv.pdf
 
 <p><br /></p>
 
-<iframe src="/assets/pdf/cv.pdf" style="width:100%; height:800px; border:0;" scrolling="no"></iframe>
+<iframe src="http://docs.google.com/gview?url=http://github.com/ghos0905/ghos0905.github/io/assets/pdf/cv.pdf&embedded=true" style="width:100%; height:800px; border:0;" scrolling="no"></iframe>
 
   </article>
 
