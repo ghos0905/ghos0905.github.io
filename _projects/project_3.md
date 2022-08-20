@@ -2,7 +2,7 @@
 layout: page
 title: SVM 카메라를 이용한 이동체 인식기술 개발
 description: (주)와이즈오토모티브 산학협력 프로젝트, 2021.3 ~ 2022.3
-img: 
+img: assets/img/project3_thumbnail.gif
 importance: 2
 category: work
 ---
