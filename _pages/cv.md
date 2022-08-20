@@ -1,10 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
 nav_order: 4
 cv_pdf: cv.pdf
 ---
 
-<a href="/assets/pdf/cv.pdf">Download CV</a>
+<a href="/assets/pdf/cv.pdf">View CV CV</a>
