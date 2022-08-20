@@ -26,7 +26,6 @@ category: work
 - 사람이 움직이면서 ROI 영역을 벗어나는 경우 영역을 보정하는 기능 추가
 
 <br/>
-<br/>
 
 ### Action to Result 2
 
