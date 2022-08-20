@@ -2,7 +2,7 @@
 layout: page
 title: TOF 카메라를 이용한 장애물 인식기술 개발
 description: (주)와이즈오토모티브 산학협력 프로젝트, 2020.12~2021.3
-img: 
+img: assets/img/project2_thumbnail.gif
 importance: 5
 category: work
 ---
