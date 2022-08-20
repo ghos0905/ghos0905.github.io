@@ -6,5 +6,3 @@ nav: true
 nav_order: 4
 cv_pdf: cv.pdf
 ---
-
-<li><a href="/assets/pdf/cv.pdf">Download CV</a></li>
