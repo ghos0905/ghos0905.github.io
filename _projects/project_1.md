@@ -3,7 +3,7 @@ layout: page
 title: TOF 카메라를 이용한 제스처 인식기술 개발
 description: (주)와이즈오토모티브 산학협력 프로젝트, 2020.12 ~ 2021.3
 img: 
-importance: 4
+importance: 3
 category: work
 ---
 
