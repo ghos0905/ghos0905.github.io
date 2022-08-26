@@ -48,3 +48,14 @@ von Neumann architecture 출처: <a href="https://en.wikipedia.org/wiki/Von_Neum
 |STR|	CPU 내부의 레지스터에서 메모리로 데이터 내보내기|
 |ADD|	두 개의 레지스터의 데이터 값을 더하여 결과를 다른 레지스터에 저장하기|
 |Instrunction Set|
+
+위와 같은 ISA 를 가진 프로세서가 있다고 할 때, 아래와 같은 기계어 프로그램을 통해 계산을 수행할 수 있습니다.
+
+<br>
+
+₩₩₩
+LDR reg1, #1; // reg1 레지스터에 상수 1 로드 
+LDR reg2, #2; // reg2 레지스터에 상수 2 로드
+ADD reg1, reg2, reg3; // reg1 값과 reg2 값을 더해 reg3 에 저장
+STR reg3, [0x00040222h]; // reg3 의 값을 0x00040222 메모리로 내보냄
+₩₩₩
