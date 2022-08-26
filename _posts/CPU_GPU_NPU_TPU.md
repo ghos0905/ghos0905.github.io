@@ -45,12 +45,12 @@ von Neumann architecture 출처: <a href="https://en.wikipedia.org/wiki/Von_Neum
 
 위와 같은 ISA 를 가진 프로세서가 있다고 할 때, 아래와 같은 기계어 프로그램을 통해 계산을 수행할 수 있습니다.
 
-₩₩₩
+{% highlight c++ linenos %}
 LDR reg1, #1; // reg1 레지스터에 상수 1 로드 
 LDR reg2, #2; // reg2 레지스터에 상수 2 로드
 ADD reg1, reg2, reg3; // reg1 값과 reg2 값을 더해 reg3 에 저장
 STR reg3, [0x00040222h]; // reg3 의 값을 0x00040222 메모리로 내보냄
-₩₩₩
+{% endhighlight %}
 
 간단한 구조의 ISA를 가정하여 작성한 어셈블리 프로그램으로, 첫 번째 레지스터에 1, 두 번째 레지스터에 2 를 저장한 뒤 ALU를 이용해 두 레지스터에 저장된 값을 더하여 세 번째 레지스터에 저장합니다. 그리고 계산 결과는 메모리 주소를 지정하여 0x00040222h 로 내보내고 있습니다. (레지스터는 CPU 내부의 저장소이고, 메모리는 CPU 바깥의 저장소입니다.)
 
