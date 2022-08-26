@@ -47,3 +47,4 @@ von Neumann architecture 출처: <a href="https://en.wikipedia.org/wiki/Von_Neum
 |LDR|CPU 내부의 레지스터로 데이터 가져오기|
 |STR|	CPU 내부의 레지스터에서 메모리로 데이터 내보내기|
 |ADD|	두 개의 레지스터의 데이터 값을 더하여 결과를 다른 레지스터에 저장하기|
+|Instrunction Set|
