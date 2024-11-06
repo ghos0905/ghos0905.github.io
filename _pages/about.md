@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-My name is Hosik Choi. I am a M.S. student in the Department of Electrical and Electronic Engineering at Yonsei University advised by <a href="http://cog.yonsei.ac.kr/">Prof. Daeeun Kim</a>.
+My name is Hyunseok Choi(aka. Hosik Choi). I am a M.S. student in the Department of Electrical and Electronic Engineering at Yonsei University advised by <a href="http://cog.yonsei.ac.kr/">Prof. Daeeun Kim</a>.
 
 My research interests are Image Processing, Deep Learning, Robotics, and Algorithm Effectiveness. My ongoing project is focused on Effective Object Detection Algorithm using optical flow, machine learning, and deep learning methods.
 
