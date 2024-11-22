@@ -18,7 +18,7 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{$white-color};
-  --global-highlight-color: #{$white-color};
+  --global-highlight-color: #{$grey-color};
   --global-back-to-top-bg-color: rgba(
     #{color.channel($black-color, "red", $space: rgb)},
     #{color.channel($black-color, "green", $space: rgb)},
@@ -45,11 +45,11 @@
   #light-toggle-system {
     padding-left: 10px;
     padding-top: 12px;
-    display: none;
+    display: block;
   }
 
   #light-toggle-dark {
-    display: block;
+    display: none;
   }
 
   #light-toggle-light {
