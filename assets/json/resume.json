@@ -29,7 +29,7 @@
       "url": "https://tmaxai.co.kr",
       "startDate": "2023-01-16",
       "endDate": "",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "",
       "highlights": ["Generative AI", "3D Avatar", "GAN, Diffusion, NeRF models"]
     }
   ],
@@ -148,7 +148,7 @@
     },
     {
       "name": "Tools",
-      "level": "Beginner",
+      "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Unreal Engine 5"
