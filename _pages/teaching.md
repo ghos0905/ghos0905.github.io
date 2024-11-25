@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
-nav: false
+nav: true
 nav_order: 4
 ---
 ENG1108 ENGINEERING INFORMATION PROCESSING, Fall ’22, Yonsei University  
