@@ -75,16 +75,6 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Best oral award",
-      "date": "2022-06-29",
-      "awarder": "The International Council on Electrical Engineering Conference 2022 (ICEE 2022)",
-      "url": "https://www.icee2022.org/",
-      "summary": ""
-    }
-  ],
-  "certificates": [],
   "publications": [
     {
       "name": "Moving object tracking based on sparse optical flow with moving window and target estimator",
@@ -101,6 +91,29 @@
       "summary": "The data selection method can be a useful tool for deep learning on a large amount of datasets."
     }
   ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best oral award",
+      "date": "2022-06-29",
+      "awarder": "The International Council on Electrical Engineering Conference 2022 (ICEE 2022)",
+      "url": "https://www.icee2022.org/",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
   "skills": [
     {
       "name": "Programming Languages",
@@ -133,18 +146,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "Korean",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Proficient",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Artifical Intelligence",
@@ -159,18 +160,17 @@
       ]
     }
   ],
-  "references": [],
-  "projects": [
+  "languages": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "Korean",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient",
+      "icon": ""
     }
-  ]
+  ],
+  "references": []
 }
