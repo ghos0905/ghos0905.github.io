@@ -22,9 +22,9 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Generative AI",
-        "3D Avatar",
-        "GAN, Diffusion, NeRF models"
+        "2D, 3D Generative AI",
+        "3D Avatar and Object",
+        "GAN, Diffusion, and NeRF-based models"
       ]
     }
   ],
@@ -64,16 +64,10 @@
         "PROBABILITY THEORY (MAT3111)",
         "LINEAR ALGEBRA (STA2102)",
         "LOGIC CIRCUIT DESIGN (CSI2111)",
-        "Application Programming (EEE3545)",
-        "COMPUTATIONAL THINKING AND SW PROGRAMMING (YCS1001)",
-        "R AND PYTHON PROGRAMMING (STA2104)",
         "DATA ENGINEERING (STA3133)",
-        "STATISTICAL METHOD (STA2105)",
-        "CALCULUS (STA1002)",
         "BAYESIAN STATISTICS (STA3105)",
         "REGRESSION ANALYSIS (STA3125)",
         "MATHEMATICAL STATISTICS(1) (STA3126)",
-        "PSYCHOLOGICAL STATISTICS (PSY3122)",
         "MODERN SOCIETY AND PSYCHOLOGY (UCD1102)",
         "CULTURAL ANTHROPOLOGY (ANT1001)",
         "DESIGN AESTHETICS (DSN3106)",
@@ -83,8 +77,7 @@
         "INTRODUCTION TO COMPUTER SCIENCE (CSI2106)",
         "INTRODUCTION TO COGNITIVE SCIENCE (COG3101)",
         "INTRODUCTION TO PSYCHOLOGY (PSY2103)",
-        "INTRODUCTION TO STATISTICS (STA1001)",
-        "THEORY OF INTEGRATED DESIGN (DSN2103)"
+        "INTRODUCTION TO STATISTICS (STA1001)"
       ]
     }
   ],
@@ -122,7 +115,7 @@
       "keywords": [
         "C++",
         "Python",
-        "HTML"
+        "JavaScript"
       ]
     },
     {
@@ -132,8 +125,9 @@
       "keywords": [
         "Pytorch",
         "OpenCV",
-        "blender",
-        "Huggingface"
+        "bpy",
+        "Diffusers",
+        "Gradio"
       ]
     },
     {
