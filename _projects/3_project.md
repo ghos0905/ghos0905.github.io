@@ -2,7 +2,7 @@
 layout: page
 title: Development of gesture algorithm
 description: Gesture Recognition Algorithm on TOF Camera
-img: assets/img/project_preview/project3_thumbnail.gif
+img: assets/img/project_preview/project3_thumbnail.png
 importance: 3
 category: work
 related_publications: false
