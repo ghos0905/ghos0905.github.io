@@ -2,7 +2,7 @@
 layout: page
 title: Development of alert algorithm
 description: Obstacle Detection Algorithm on TOF Camera
-img: assets/img/project_preview/project4_thumbnail.gif
+img: assets/img/project_preview/project4_thumbnail.png
 importance: 3
 category: work
 related_publications: false
