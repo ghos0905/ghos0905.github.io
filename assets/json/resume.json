@@ -63,8 +63,7 @@
         "LINEAR ALGEBRA (STA2102)",
         "DATA ENGINEERING (STA3133)",
         "BAYESIAN STATISTICS (STA3105)",
-        "DESIGN AESTHETICS (DSN3106)",
-        "VISUAL INFORMATION DESIGN (DSN3108)"
+        "DESIGN AESTHETICS (DSN3106)"
       ]
     }
   ],
@@ -80,21 +79,66 @@
       "name": "Efficient Data Selection with YOLOv5 Deep Learning Model",
       "publisher": "ICEE",
       "releaseDate": "2022-06-29",
-      "url": "",
+      "url": "https://www.icee2022.org/",
       "summary": "The data selection method can be a useful tool for deep learning on a large amount of datasets."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "Moving Object Recognition Software on SVM Camera",
+      "summary": "Development of software for identifying specific objects (vehicles, motorcycles, pedestrians) within the SVM-synthesized video region for buses.",
       "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
+        "Development of deep learning software",
+        "Strategy to construct train dataset",
+        "Embedded-board environment",
+        "Python, Pytorch"
       ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2021-03-01",
+      "endDate": "2022-03-01"
+    },
+    {
+      "name": "Moving Object Detection Algorithm on Surveillance Camera",
+      "summary": "Development of algorithm for recognizing moving objects in surveillance camera systems through analysis and application of bio-sensing systems.",
+      "highlights": [
+        "Development of object detection algorithm",
+        "Optimized algorithm based on sparse optical flow",
+        "Embedded-board environment",
+        "C++, OpenCV"
+      ],
+      "startDate": "2021-09-01",
+      "endDate": "2022-04-01"
+    },
+    {
+      "name": "Gesture Recognition Algorithm on TOF Camera",
+      "summary": "Development of a facial gesture recognition algorithm utilizing distance information captured by a Time-of-Flight (TOF) camera.",
+      "highlights": [
+        "Development of gesture recognition algorithm",
+        "Rule-based algorithm based on dense optical flow",
+        "C++, OpenCV"
+      ],
+      "startDate": "2020-12-01",
+      "endDate": "2021-03-01"
+    },
+    {
+      "name": "Obstacle Detection Algorithm on TOF Camera",
+      "summary": "Development of an obstacle detection algorithm for door operation using a TOF camera mounted on the vehicle's side door.",
+      "highlights": [
+        "Development of obstacle evasion algorithm",
+        "Embedded-board environment",
+        "C++, OpenCV"
+      ],
+      "startDate": "2020-12-01",
+      "endDate": "2021-03-01"
+    },
+    {
+      "name": "Swarm Intelligence System Simulation",
+      "summary": "Study on collective behavior strategies for efficient problem-solving.",
+      "highlights": [
+        "​Simulation and research of multi agent system based on swarm robotics",
+        "Matlab"
+      ],
+      "startDate": "2021-03-01",
+      "endDate": "2021-08-01"
     }
   ],
   "awards": [
@@ -115,6 +159,7 @@
       "keywords": [
         "C++",
         "Python",
+        "Matlab",
         "JavaScript"
       ]
     },
